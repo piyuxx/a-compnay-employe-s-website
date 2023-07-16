@@ -1,1 +1,1 @@
-
+A website that stores company employe's information, company-added employee joining date hiring date, salary, increments. There was also ascending, desecending, and pagination functionality added in this project.
